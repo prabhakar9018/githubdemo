@@ -1,5 +1,5 @@
 import numpy
-a=5
-b=6
+a=35
+b=63
 c=a+b
 print "The sum of two numbers is =" c
