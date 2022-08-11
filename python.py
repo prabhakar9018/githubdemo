@@ -1,5 +1,6 @@
 import numpy
 a=35
 b=63
-c=a+b
-print "The sum of two numbers is =" c
+c=100
+d=a+b+c
+print "The sum of two numbers is =" d
